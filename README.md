@@ -1,6 +1,6 @@
 Responsive page Sample of VIN Report
 
-https://freelancewebdesignusa.com/examples/Report/report.html
+https://freelancewebdesignusa.com/html/report/report.html
 
 Mobile Version:
 ![Screenshot](m-screenshot.png)
