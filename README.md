@@ -5,6 +5,6 @@ https://freelancewebdesignusa.com/html/report/report.html
 Mobile Version:
 ![Screenshot](m-screenshot.png)
 
-Laptop & Desktop:
+Desktop & Tablet:
 ![Screenshot](screenshot.png)
 
